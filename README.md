@@ -1,10 +1,8 @@
+Live Site: https://kamulupraneeth.github.io/singlepagecv/
+
 # Kamulu Praneeth - Resume Website
 
 This is a personal resume and portfolio website built using HTML.
-
-## 🔗 Live Site
-
-https://kamulupraneeth.github.io/singlepagecv/
 
 ## 👨‍💻 Tech Used
 
