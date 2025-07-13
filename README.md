@@ -15,8 +15,6 @@ This is a personal resume and portfolio website built using HTML.
 
 Simple resume website built with semantic HTML elements and Open Graph tags.
 
----
-
 ## 📬 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/praneeth-kamulu/)
