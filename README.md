@@ -1,4 +1,6 @@
-https://kamulupraneeth.github.io/singlepagecv/
+<!-- https://kamulupraneeth.github.io/singlepagecv/ -->
+
+https://github.com/kamulupraneeth/singlepagecv
 
 # Kamulu Praneeth - Resume Website
 
